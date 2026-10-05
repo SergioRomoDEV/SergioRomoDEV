@@ -68,7 +68,7 @@ Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1Â
   <a href="mailto:Gen.dev.sergio@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/TU-USUARIO">
+  <a href="https://github.com/SergioRomoDEV">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
