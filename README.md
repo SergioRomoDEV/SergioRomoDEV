@@ -12,12 +12,12 @@
 
 Estudiante de **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** en The Power Business School.
 
-Empecé desde cero en 2024 sin conocimientos de programación. Un año después, soy capaz de crear proyectos web completos desde cero.
+Empecé desde cero en 2025 sin conocimientos de programación. Un año después, soy capaz de crear proyectos web completos desde cero.
 
--  Actualmente aprendiendo: **JavaScript avanzado**, **React** y **Spring Boot**
+-  Actualmente aprendiendo: **JavaScript **, **Laravel** y **AWS**
 -  Objetivo: Desarrollador **Fullstack** especializado en **Backend** y **Ciberseguridad**
 -  Pasión: **Gaming retro** y la cultura de los 90
--  Buscando: Prácticas profesionales para 2026
+
 
 ---
 
@@ -28,15 +28,15 @@ Empecé desde cero en 2024 sin conocimientos de programación. Un año después,
 </p>
 
 **Frontend:** HTML5, CSS3, JavaScript  
-**Backend:** Java (POO, JDBC)  
-**Bases de Datos:** MySQL  
-**Herramientas:** Git, GitHub, VS Code, MySQL Workbench
+**Backend:** Java (POO, JDBC), PHP 
+**Bases de Datos:** MySQL, MongoDB  
+**Herramientas:** Git, GitHub, VS Code,Intellij IDEA MySQL Workbench
 
 ---
 
 ##  Proyecto Destacado
 
-###  [Bit-Love](https://github.com/tu-usuario/bit-love)
+###  https://github.com/SergioRomoDEV/BIT---LOVE
 
 Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1º DAW
 
@@ -49,15 +49,16 @@ Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1�
 
 **Stack:** HTML5, CSS3, JavaScript, Java, MySQL
 
-[📖 Ver proyecto](https://github.com/tu-usuario/bit-love)
+[📖 Ver proyecto](https://github.com/SergioRomoDEV/BIT---LOVE)
 
 ---
 
 ##  Aprendiendo Actualmente
 
 -  JavaScript avanzado (ES6+)
--  React.js
--  Spring Boot
+-  Laravel
+-  DOCKER
+-  AWS
 -  Fundamentos de ciberseguridad
 
 ---
