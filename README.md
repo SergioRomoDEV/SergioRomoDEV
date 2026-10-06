@@ -36,7 +36,7 @@ Empecé desde cero en 2025 sin conocimientos de programación. Un año después,
 
 ##  Proyecto Destacado
 
-###  https://github.com/SergioRomoDEV/BIT---LOVE
+###  BIT---LOVE
 
 Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1º DAW
 
